@@ -1,0 +1,14 @@
+MOVE 60 — página melhorada
+
+Extraia o ZIP e publique o conteúdo desta pasta no mesmo projeto da Vercel. Mantenha index.html, styles.css e a pasta assets juntos.
+
+Pixel original preservado integralmente: 1097369859373070 / PageView.
+Checkouts preservados:
+https://pay.hotmart.com/N107696312D
+https://pay.hotmart.com/O107696529K
+
+Preços-base encontrados nos checkouts em 21/09/2026: EUR 8,90 e EUR 14,90. A página informa que a Hotmart determina moeda e valor final conforme o país. Atualize os valores no HTML se mudar a oferta.
+
+As imagens são as mesmas do site original. A página descreve o formato ebook identificado na Hotmart. Não foram acrescentados depoimentos, promessas de resultado, prazo de garantia ou duração de treino sem confirmação.
+
+Esta entrega contém os arquivos; não altera automaticamente a publicação atual na Vercel.
